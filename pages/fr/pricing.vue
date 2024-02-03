@@ -101,7 +101,7 @@
 																	</h2>
 																</div>
 																<div class="col-md-3 col-sm-6">
-																	<a href="#" class="btn btn-dark-1 w-100">Commencer</a>
+																	<a href="https://dash.gstocky.com/signup" class="btn btn-dark-1 w-100">Commencer</a>
 																</div>
 															</div>
 															<div class="border-bottom border-dark-3 w-100 mb-6 aos-init aos-animate" >
