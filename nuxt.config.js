@@ -13,7 +13,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/images/favicon.png' },
       { rel: 'stylesheet', href: 'https://unpkg.com/aos@next/dist/aos.css' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;300;400;500;600;700;800;900&family=DM+Sans:wght@100;200;300;400;500;600;700;800;900&subset=latin&display=swap' },
       { rel: 'stylesheet', href: 'https://designmodo.com/startup/app/pub/141115/bc24779f9d0897a2a55b285cf3ff7a8c/styles/css/styles.min.css?v=1686351539' },

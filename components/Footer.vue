@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-bg-3 py-8 text-center">
+  <!-- <footer class="bg-bg-3 py-8 text-center">
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-2 col-md-3 mb-6 mb-md-0" >
@@ -26,7 +26,51 @@
         <div class="mt-6 mb-8 border-bottom border-dark-3"  ></div>
         <p class="fs-5 mb-0"  >Copyright © 2023 gstocky.com</p>
       </div>
-    </footer>
+  </footer> -->
+
+  <footer class="bg-bg-3 pt-8 pb-12">
+												<div class="container">
+													<div class="row">
+														<div class="mb-8 mb-md-0 col-lg-3 col-xl-3 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
+															<a href="#" class="mb-4">
+																<img src="/images/gstocky.png" srcset="/images/gstocky.png 2x" style="width:80px" alt="" class="img-fluid">
+															</a>
+															<p class="fs-5">
+Be the first to explore and use our new products while others are still waiting
+															</p>
+														</div>
+														<div class="mb-sm-8 mb-md-0 col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+															<h5 class="mb-4">Liens</h5>
+															<a href="/fr/features" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Fonctionnalités</a>
+															<a href="/fr/pricing" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Tarification</a>
+															<a href="/fr/invoice-generator" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Facture Rapide</a>
+															<a href="/fr/contact" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Contact</a>
+
+														</div>
+														<div class="mb-sm-8 mb-md-0 col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="250">
+															<h5 class="mb-4">Articles</h5>
+															<a href="/fr/articles/getting-started" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Guide d'inscription</a>
+															<a href="/fr/articles/add-product" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Ajouter l'inventaires</a>
+															<a href="/fr/articles/add-quote" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Ajouter Un Devis</a>
+															<a href="/fr/articles/add-order" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Ajouter Une commande</a>
+
+														</div>
+														<div class="col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="400">
+															<h5 class="mb-4">About</h5>
+															<a href="/fr/faq" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Faq</a>
+															<a href="/fr/tos" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Terms</a>
+														</div>
+														<div class="col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="500">
+															<h5 class="mb-4">Contact</h5>
+															<a href="tel:+212760363100" class="mb-4 me-2 me-sm-0 d-block text-action-1 fw-bold">+212760363100</a>
+															<a href="mailto:contact@gstocky.com" class="mb-4 me-2 me-sm-0 d-block text-action-1 fw-bold">contact@gstocky.com</a>
+														</div>
+													</div>
+													<p class="fs-5 mb-0 mt-lg-0 mt-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="650">
+Copyright © 2024 gstocky.com
+													</p>
+												</div>
+											</footer>
 </template>
 
 <script>

@@ -9,7 +9,7 @@
               </span>
             </div>
             <div class="col-6 text-center"  data-aos-delay="250">
-              <a href="/">gstocky</a>
+              <a href="/"></a>
             </div>
             <div class="col-3"  ></div>
           </div>
@@ -17,7 +17,7 @@
       </div>
       <div class="offcanvas offcanvas-start bg-bg-3" id="custom-id-mue02ug7" aria-hidden="true">
         <div class="offcanvas-header">
-          <a href="/" class="h2"> Gstocky </a>
+          <a href="/" class="h2">  </a>
           <span class="btn btn-sm btn-width-equal-height btn-bg-3" data-bs-dismiss="offcanvas">
             <svg width="24" height="24" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="fill-dark-2"><path d="M8.9398 8L13.1398 3.80667C13.2653 3.68113 13.3359 3.51087 13.3359 3.33333C13.3359 3.1558 13.2653 2.98554 13.1398 2.86C13.0143 2.73447 12.844 2.66394 12.6665 2.66394C12.4889 2.66394 12.3187 2.73447 12.1931 2.86L7.9998 7.06L3.80646 2.86C3.68093 2.73447 3.51066 2.66394 3.33313 2.66394C3.1556 2.66394 2.98533 2.73447 2.8598 2.86C2.73426 2.98554 2.66374 3.1558 2.66374 3.33333C2.66374 3.51087 2.73426 3.68113 2.8598 3.80667L7.0598 8L2.8598 12.1933C2.79731 12.2553 2.74771 12.329 2.71387 12.4103C2.68002 12.4915 2.6626 12.5787 2.6626 12.6667C2.6626 12.7547 2.68002 12.8418 2.71387 12.9231C2.74771 13.0043 2.79731 13.078 2.8598 13.14C2.92177 13.2025 2.99551 13.2521 3.07675 13.2859C3.15798 13.3198 3.24512 13.3372 3.33313 13.3372C3.42114 13.3372 3.50827 13.3198 3.58951 13.2859C3.67075 13.2521 3.74449 13.2025 3.80646 13.14L7.9998 8.94L12.1931 13.14C12.2551 13.2025 12.3288 13.2521 12.4101 13.2859C12.4913 13.3198 12.5785 13.3372 12.6665 13.3372C12.7545 13.3372 12.8416 13.3198 12.9228 13.2859C13.0041 13.2521 13.0778 13.2025 13.1398 13.14C13.2023 13.078 13.2519 13.0043 13.2857 12.9231C13.3196 12.8418 13.337 12.7547 13.337 12.6667C13.337 12.5787 13.3196 12.4915 13.2857 12.4103C13.2519 12.329 13.2023 12.2553 13.1398 12.1933L8.9398 8Z"></path></svg>
           </span>
@@ -39,9 +39,9 @@
             <a href="/fr/contact" class="fw-bold text-dark-1 py-2 d-inline-block">Contactez nous</a>
           </div>
           <div></div>
-          <div>
+          <!-- <div>
             <a href="https://dash.gstocky.com/signup" class="fw-bold py-2 d-inline-block">Inscription</a>
-          </div>
+          </div> -->
           <a href="https://dash.gstocky.com/login" class="btn btn-sm btn-action-1 rounded-2 mt-4">Connexion</a>
         </div>
       </div>
@@ -49,13 +49,13 @@
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-2">
-              <a href="/fr" class="h2"> Gstocky </a>
+              <a href="/fr" class="h2">Gstocky</a>
             </div>
             <div class="text-center d-flex justify-content-center col-6">
               <a href="/fr/features" class="fw-bold mx-4 text-dark-1">Fonctionnalités</a>
               <a href="/fr/pricing" class="fw-bold mx-4 text-dark-1">Tarification</a>
               <a href="/fr/invoice-generator" class="fw-bold mx-4 text-dark-1">Facture Rapide</a>
-              <a href="/fr/articles" class="fw-bold mx-4 text-dark-1">Articles</a>
+              <!-- <a href="/fr/articles" class="fw-bold mx-4 text-dark-1">Articles</a> -->
               <a href="/fr/contact" class="fw-bold mx-4 text-dark-1">Contact</a>
             </div>
             <div class="d-flex align-items-center justify-content-end col-lg-3">
