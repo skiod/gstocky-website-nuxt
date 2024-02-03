@@ -1,0 +1,67 @@
+
+    [data-invoicly="true"] {
+      border: none !important;
+    }
+
+    .invoice {
+      display: block;
+    }
+
+    .hide-elements {
+      display: none;
+    }
+
+    @page {
+      size: auto;
+      margin: 30px 0 !important;
+    }
+
+    .container {
+      width: 100% !important;
+    }
+
+    .invoice-container{
+      width: 100% !important;
+    }
+
+    .invoice {
+      font-size: 13px !important;
+      color: black !important;
+      padding: 0 !important;
+    }
+
+    .btn {
+      display: none !important;
+    }
+
+    #logoForm {
+      display: none;
+    }
+
+    table td {
+      padding: 0.45rem !important;
+    }
+
+    .table > :not(caption) > * > * {
+      color: black !important;
+      font-size: 10px !important;
+    }
+
+    body {
+      margin: 30px !important;
+      /* Remove default body margin */
+      padding: 30px !important;
+      /* Remove default body padding */
+    }
+
+    textarea {
+      resize: none;
+    }
+
+    .grecaptcha-badge{
+      display:  none !important;
+    }
+
+    .sticky-top{
+      display: none !important;
+    }
