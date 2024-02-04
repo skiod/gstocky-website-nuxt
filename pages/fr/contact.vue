@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-6">
               <h1 class="mb-10" >Contactez nous</h1>
-              <p>N'hésitez pas à nous contacter et à nous faire part de votre problème.</p>
+              <p>N'hésitez pas à nous contacter.</p>
               <div class="mb-15 js-ajax-form">
                 <!-- Forms alerts -->
                 <div id="successMessage" class="alert alert-action-8" data-result="success" role="alert">
