@@ -12,7 +12,7 @@
             <div class="col-md-6">
               <h1 class="mb-10" >Contactez nous</h1>
               <p>N'hésitez pas à nous contacter et à nous faire part de votre problème.</p>
-              <form method="post" class="mb-15 js-ajax-form">
+              <div class="mb-15 js-ajax-form">
                 <!-- Forms alerts -->
                 <div id="successMessage" class="alert alert-action-8" data-result="success" role="alert">
                   <span class="js-form-alert-text" data-default-text="Thank you for your message!">Thank you for your message!</span>
@@ -41,7 +41,7 @@
                     <button class="btn btn-action-1 w-100" id="sendMessage">Envoyer</button>
                   </div>
                 </div>
-              </form>
+              </div>
               <div class="w-50 border-bottom border-dark-3 mx-auto mb-10" data-aos-delay="250"></div>
               <p class="mb-2" >Or call us via WhatsApp</p>
               <a href="tel:++212760363100" class="text-dark-1 fw-bold fs-1" >+212 760363100</a>
