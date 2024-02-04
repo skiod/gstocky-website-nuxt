@@ -6,4 +6,9 @@ export default function ({ route, redirect }) {
     // Redirect to the "/fr" path
     return redirect('/fr');
   }
+
+  if (route.path === '/invoice' || route.path === '/facture') {
+    // Redirect to the "/fr" path
+    return redirect('/fr/invoice-generator');
+  }
 }
