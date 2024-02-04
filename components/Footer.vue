@@ -36,7 +36,7 @@
 																<img src="/images/gstocky.png" srcset="/images/gstocky.png 2x" style="width:80px" alt="" class="img-fluid">
 															</a>
 															<p class="fs-5">
-Be the first to explore and use our new products while others are still waiting
+                                La clé de la gestion intelligente des inventaires.
 															</p>
 														</div>
 														<div class="mb-sm-8 mb-md-0 col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">

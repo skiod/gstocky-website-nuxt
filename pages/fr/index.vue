@@ -10,7 +10,7 @@
           <div class="col-md-6 mt-8 mt-md-0">
             <h1 class="mb-6 display-5"  data-aos-delay="150">Simplifier, optimiser, prospérer avec Gstocky !</h1>
             <p class="mb-8 fs-1"  >Votre solution complète de gestion des stocks et des ventes</p>
-            <a href="https://dash.gstocky.com/signup?lang=en" class="btn btn-action-1"  >Commencez gratuitement</a>
+            <a href="https://dash.gstocky.com/signup" class="btn btn-action-1"  >Commencez gratuitement</a>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@
           <div class="row flex-column-reverse flex-lg-row align-items-center justify-content-center justify-content-lg-between">
             <div class="col-md-8 col-lg-6 col-xxl-5">
               <h2 class="display-5 aos-init aos-animate" data-aos-delay="0">Améliorez votre rentabilité et votre efficacité</h2>
-              <a href="https://dash.gstocky.com/signup?lang=en" class="mt-8 mb-6 btn btn-action-1 aos-init aos-animate">Commencez gratuitement</a>
+              <a href="https://dash.gstocky.com/signup" class="mt-8 mb-6 btn btn-action-1 aos-init aos-animate">Commencez gratuitement</a>
               <p class="mb-0 aos-init aos-animate" >L'outil puissant qui vous aide à tout gérer en un seul endroit</p>
             </div>
             <div class="col-md-8 col-lg-6 text-lg-end">
