@@ -33,7 +33,7 @@
             <a href="/fr/pricing" class="fw-bold text-dark-1 py-2 d-inline-block">Tarification</a>
           </div>
           <div>
-            <a href="/fr/invoice-generator" class="fw-bold text-dark-1 py-2 d-inline-block">Facture Gratuite</a>
+            <a href="/fr/invoice-generator" class="fw-bold text-dark-1 py-2 d-inline-block">Facture Rapide</a>
           </div>
           <div>
             <a href="/fr/contact" class="fw-bold text-dark-1 py-2 d-inline-block">Contactez nous</a>
