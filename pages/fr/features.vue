@@ -4,7 +4,7 @@
 
       <section class="py-10 py-lg-20 text-center text-md-start bg-bg-3" id="features">
 					<div class="container">
-						<h2 class="h1 text-center">Fonctionnalités</h2>
+						<h1 class="h1 text-center">Fonctionnalités</h1>
 						<div class="mb-15 mb-md-8 row align-items-center flex-md-row-reverse justify-content-center" draggable="true">
 							<div class="mb-8 mb-md-0 col-10 col-sm-7 col-md-5 col-xl-4">
 								<img src="/images/devis.png" srcset="/images/devis.png 2x" alt="devis" class="img-fluid w-100 aos-init aos-animate"  data-aos-delay="250">

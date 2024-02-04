@@ -7,9 +7,9 @@
 											<div class="container">
 												<div class="row justify-content-between align-items-end mb-10 mb-lg-15">
 													<div class="col-xxl-5 col-xl-6 col-lg-7 col-md-8 col-sm-10">
-														<h2 class="display-5 mb-10 mb-lg-0 aos-init aos-animate" data-aos-delay="0">
+														<h1 class="display-5 mb-10 mb-lg-0 aos-init aos-animate" data-aos-delay="0">
                     Tarification
-														</h2>
+														</h1>
 													</div>
 
 												</div>

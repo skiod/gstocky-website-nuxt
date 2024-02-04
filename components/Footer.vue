@@ -32,8 +32,8 @@
 												<div class="container">
 													<div class="row">
 														<div class="mb-8 mb-md-0 col-lg-3 col-xl-3 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
-															<a href="#" class="mb-4">
-																<img src="/images/gstocky.png" srcset="/images/gstocky.png 2x" style="width:80px" alt="" class="img-fluid">
+															<a href="/fr" class="mb-4">
+																<img src="/images/gstocky.png" srcset="/images/gstocky.png 2x" style="width:80px" alt="gestion de stock" class="img-fluid">
 															</a>
 															<p class="fs-5">
                                 La clé de la gestion intelligente des inventaires.
