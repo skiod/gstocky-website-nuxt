@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-bg-3 sticky-top py-4 py-lg-7">
+  <nav class=" sticky-top py-1 py-lg-3" style="background:#004aad">
       <div class="d-block d-lg-none">
         <div class="container">
           <div class="row align-items-center">
@@ -11,11 +11,11 @@
             <div class="col-6 text-center"  data-aos-delay="250">
               <a href="/"></a>
             </div>
-            <div class="col-3"  ></div>
+            <div class="col-3"></div>
           </div>
         </div>
       </div>
-      <div class="offcanvas offcanvas-start bg-bg-3" id="custom-id-mue02ug7" aria-hidden="true">
+      <div class="offcanvas offcanvas-start " id="custom-id-mue02ug7" aria-hidden="true">
         <div class="offcanvas-header">
           <a href="/" class="h2">  </a>
           <span class="btn btn-sm btn-width-equal-height btn-bg-3" data-bs-dismiss="offcanvas">
@@ -49,18 +49,18 @@
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-2">
-              <a href="/fr" class="h2">Gstocky</a>
+              <a href="/fr" class="h2 text-white color-white" style="color:white">Gstocky</a>
             </div>
             <div class="text-center d-flex justify-content-center col-6">
-              <a href="/fr/features" class="fw-bold mx-4 text-dark-1">Fonctionnalités</a>
-              <a href="/fr/pricing" class="fw-bold mx-4 text-dark-1">Tarification</a>
-              <a href="/fr/invoice-generator" class="fw-bold mx-4 text-dark-1">Facture Rapide</a>
-              <!-- <a href="/fr/articles" class="fw-bold mx-4 text-dark-1">Articles</a> -->
-              <a href="/fr/contact" class="fw-bold mx-4 text-dark-1">Contact</a>
+              <a href="/fr/features" class="fw-bold mx-4" style="color:white">Fonctionnalités</a>
+              <a href="/fr/pricing" class="fw-bold mx-4" style="color:white">Tarification</a>
+              <a href="/fr/invoice-generator" class="fw-bold mx-4" style="color:white">Facture Rapide</a>
+              <!-- <a href="/fr/articles" class="fw-bold mx-4">Articles</a> -->
+              <a href="/fr/contact" class="fw-bold mx-4" style="color:white">Contact</a>
             </div>
             <div class="d-flex align-items-center justify-content-end col-lg-3">
-              <a href="https://dash.gstocky.com/signup" class="fw-bold fs-4 me-8">Inscription</a>
-              <a href="https://dash.gstocky.com/login" class="btn btn-sm btn-action-1 rounded-2">Connexion</a>
+              <a href="https://dash.gstocky.com/signup" style="color:white" class="fw-bold fs-4 me-8">Inscription</a>
+              <a href="https://dash.gstocky.com/login" style="color:white" class="btn btn-sm  rounded-2">Connexion</a>
             </div>
           </div>
         </div>
