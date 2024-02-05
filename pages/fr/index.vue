@@ -9,7 +9,7 @@
           </div>
           <div class="col-md-6 mt-8 mt-md-0">
             <h1 class="mb-6 display-5"  data-aos-delay="150">Simplifier, optimiser, prospérer avec Gstocky !</h1>
-            <p class="mb-8 fs-1"  >Votre solution complète de gestion des stocks et des ventes</p>
+            <p class="mb-8 fs-1"  >Gérez avec facilité, contrôlez avec précision - Votre solution intégrée pour inventaires, factures, achats, commandes, réceptions, livraisons, paiements, notes de crédit, retours, clients, fournisseurs et bien plus encore!</p>
             <a href="https://dash.gstocky.com/signup" class="btn btn-action-1"  >Commencez gratuitement</a>
           </div>
         </div>

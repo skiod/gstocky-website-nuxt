@@ -36,7 +36,7 @@
 																<img src="/images/gstocky.png" srcset="/images/gstocky.png 2x" style="width:80px" alt="gestion de stock" class="img-fluid">
 															</a>
 															<p class="fs-5">
-                                La clé de la gestion intelligente des inventaires.
+                                Gérez avec facilité, contrôlez avec précision - Votre solution intégrée pour inventaires, factures, achats, commandes, réceptions, livraisons, paiements, notes de crédit, retours, clients, fournisseurs et bien plus encore!
 															</p>
 														</div>
 														<div class="mb-sm-8 mb-md-0 col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
