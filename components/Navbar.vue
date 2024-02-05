@@ -24,23 +24,23 @@
         </div>
         <div class="offcanvas-body">
           <div>
-            <a href="/fr" class="fw-bold text-dark-1 py-2 d-inline-block">Accueil</a>
+            <a href="/fr" class=" text-dark-1 py-2 d-inline-block">Accueil</a>
           </div>
           <div>
-            <a href="/fr/features" class="fw-bold text-dark-1 py-2 d-inline-block">Fonctionnalités</a>
+            <a href="/fr/features" class=" text-dark-1 py-2 d-inline-block">Fonctionnalités</a>
           </div>
           <div>
-            <a href="/fr/pricing" class="fw-bold text-dark-1 py-2 d-inline-block">Tarification</a>
+            <a href="/fr/pricing" class=" text-dark-1 py-2 d-inline-block">Tarifs</a>
           </div>
           <div>
-            <a href="/fr/invoice-generator" class="fw-bold text-dark-1 py-2 d-inline-block">Facture Rapide</a>
+            <a href="/fr/invoice-generator" class=" text-dark-1 py-2 d-inline-block">Facture Rapide</a>
           </div>
           <div>
-            <a href="/fr/contact" class="fw-bold text-dark-1 py-2 d-inline-block">Contactez nous</a>
+            <a href="/fr/contact" class=" text-dark-1 py-2 d-inline-block">Contactez nous</a>
           </div>
           <div></div>
           <!-- <div>
-            <a href="https://dash.gstocky.com/signup" class="fw-bold py-2 d-inline-block">Inscription</a>
+            <a href="https://dash.gstocky.com/signup" class=" py-2 d-inline-block">Inscription</a>
           </div> -->
           <a href="https://dash.gstocky.com/login" class="btn btn-sm btn-action-1 rounded-2 mt-4">Connexion</a>
         </div>
@@ -52,14 +52,14 @@
               <a href="/fr" class="h2 text-white color-white" style="color:white">Gstocky</a>
             </div>
             <div class="text-center d-flex justify-content-center col-6">
-              <a href="/fr/features" class="fw-bold mx-4" style="color:white">Fonctionnalités</a>
-              <a href="/fr/pricing" class="fw-bold mx-4" style="color:white">Tarification</a>
-              <a href="/fr/invoice-generator" class="fw-bold mx-4" style="color:white">Facture Rapide</a>
-              <!-- <a href="/fr/articles" class="fw-bold mx-4">Articles</a> -->
-              <a href="/fr/contact" class="fw-bold mx-4" style="color:white">Contact</a>
+              <a href="/fr/features" class=" mx-4" style="color:white">Fonctionnalités</a>
+              <a href="/fr/pricing" class=" mx-4" style="color:white">Tarifs</a>
+              <a href="/fr/invoice-generator" class=" mx-4" style="color:white">Facture Rapide</a>
+              <!-- <a href="/fr/articles" class=" mx-4">Articles</a> -->
+              <a href="/fr/contact" class=" mx-4" style="color:white">Contact</a>
             </div>
             <div class="d-flex align-items-center justify-content-end col-lg-3">
-              <a href="https://dash.gstocky.com/signup" style="color:white" class="fw-bold fs-4 me-8">Inscription</a>
+              <a href="https://dash.gstocky.com/signup" style="color:white" class=" fs-4 me-8">Inscription</a>
               <a href="https://dash.gstocky.com/login" style="color:white" class="btn btn-sm  rounded-2">Connexion</a>
             </div>
           </div>
