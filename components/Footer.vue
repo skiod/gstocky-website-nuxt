@@ -56,7 +56,8 @@
 
 														</div>
 														<div class="col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="400">
-															<h5 class="mb-4">About</h5>
+															<h5 class="mb-4">A Propos</h5>
+															<a href="/fr/about" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">A Propos de nous</a>
 															<a href="/fr/faq" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Faq</a>
 															<a href="/fr/tos" class="mb-4 me-2 me-sm-0 d-sm-block text-dark-1">Terms</a>
 														</div>

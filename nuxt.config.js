@@ -35,6 +35,10 @@ export default {
         body: true,
       },
       {
+        src : "/js/plugins.min.js?v=5.6.692",
+        body: true,
+      },
+      {
         src : "/js/scripts.min.js?v=5.6.692",
         body: true,
       }
@@ -47,10 +51,6 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    {
-      src : "/js/plugins.min.js?v=5.6.696",
-      body: true,
-    }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
