@@ -60,7 +60,7 @@
             </div>
             <div class="d-flex align-items-center justify-content-end col-lg-3">
               <a href="https://dash.gstocky.com/signup" style="color:white" class=" fs-4 me-8">Inscription</a>
-              <a href="https://dash.gstocky.com/login" style="color:white" class="btn btn-sm  rounded-2">Connexion</a>
+              <a href="https://dash.gstocky.com/login" style="color:white;border-color:white" class="btn btn-sm  rounded-2">Connexion</a>
             </div>
           </div>
         </div>
