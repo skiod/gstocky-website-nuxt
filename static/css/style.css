@@ -1,6 +1,6 @@
-/* .grecaptcha-badge{
+.grecaptcha-badge{
   z-index: -10 !important;
-} */
+}
 
 #successMessage{
   display: none;
