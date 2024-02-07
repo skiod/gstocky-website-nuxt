@@ -60,7 +60,14 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky offre une gestion efficace des commandes, vous permettant de traiter rapidement vos transactions. Explorez ces fonctionnalités pour optimiser votre processus de commande et simplifier votre flux de travail. Gérez vos transactions en toute simplicité avec GStocky dès aujourd'hui !
                     </p>
-                    <a class="mt-4" href="/fr/articles/add-delivery">Ajouter les Livraisons</a>
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/add-quote">Ajouter les Devis</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
+                      <a class="mt-4" href="/fr/articles/add-delivery">Ajouter les Livraisons</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -54,7 +54,15 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la facturation, vous permettant de gérer vos transactions financières en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus de facturation et fournir des documents professionnels à vos clients. Simplifiez la gestion de vos finances avec GStocky dès aujourd'hui !
                     </p>
+
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/add-delivery">Ajouter les Livraisons</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
                     <a class="mt-4" href="/fr/articles/add-purchase">Ajouter les Achats</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

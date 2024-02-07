@@ -63,8 +63,14 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie chaque étape du processus, de la création du compte à l'ajout de produits. Explorez notre plateforme dès aujourd'hui pour une gestion des stocks sans tracas. Optimisez votre temps et concentrez-vous sur la croissance de votre entreprise avec GStocky.
                     </p>
-
-                    <a class="mt-4" href="/fr/articles/add-devis">Ajouter les Devis</a>
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/getting-started">Guide d'inscription</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
+                        <a class="mt-4" href="/fr/articles/add-quote">Ajouter les Devis</a>
+                      </div>
+                    </div>
                 </div>
             </div>
         </div>

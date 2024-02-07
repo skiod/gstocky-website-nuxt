@@ -60,7 +60,13 @@
 En suivant ces étapes simples, vous serez prêt à utiliser GStocky pour optimiser la gestion de votre inventaire. Profitez de fonctionnalités avancées et d'une interface conviviale pour simplifier votre processus de suivi des stocks. Découvrez le pouvoir de la gestion d'inventaire avec GStocky dès aujourd'hui !
 						</p>
 
-           <a class="mt-4" href="/fr/articles/add-product">Ajouter L'inventaires</a>
+           <div class="row">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6" style="text-align:right">
+                <a class="mt-4" href="/fr/articles/add-product">Ajouter L'inventaires</a>
+            </div>
+           </div>
 					</div>
 				</div>
 			</div>

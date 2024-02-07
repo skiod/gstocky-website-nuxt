@@ -54,7 +54,15 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la gestion des réceptions, vous permettant de suivre et de gérer vos arrivages de marchandises en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus de réception et garantir un stockage efficace. Simplifiez la gestion de vos réceptions avec GStocky dès aujourd'hui !
                     </p>
-                    <a class="mt-4" href="/fr/articles/add-payment">Ajouter les Paiments</a>
+
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/add-purchase">Ajouter les Achats</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
+                        <a class="mt-4" href="/fr/articles/add-payment">Ajouter les Paiments</a>
+                      </div>
+                    </div>
                 </div>
             </div>
         </div>

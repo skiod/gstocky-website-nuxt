@@ -54,7 +54,15 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la gestion des livraisons, vous permettant de suivre et de gérer vos expéditions en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus de distribution et garantir des livraisons réussies. Simplifiez la gestion de vos livraisons avec GStocky dès aujourd'hui !
                     </p>
+
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/add-order">Ajouter les Commandes</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
                     <a class="mt-4" href="/fr/articles/add-invoice">Ajouter les Factures</a>
+                        </div>
+                    </div>
 
                 </div>
             </div>

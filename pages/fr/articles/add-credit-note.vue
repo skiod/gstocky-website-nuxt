@@ -54,6 +54,14 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la gestion des avoirs, vous permettant de suivre et de gérer vos remboursements en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus de gestion des avoirs et garantir la satisfaction de vos clients. Simplifiez la gestion de vos avoirs avec GStocky dès aujourd'hui !
                     </p>
+                    <div class="row">
+                      <div class="col-sm-6">
+                          <a class="mt-4" href="/fr/articles/add-return">Ajouter les Retours</a>
+                      </div>
+                      <div class="col-sm-6" style="text-align:right">
+                        <!-- <a class="mt-4" href="/fr/articles/add-credit-note">Ajouter les Avoirs</a> -->
+                      </div>
+                    </div>
                 </div>
             </div>
         </div>
