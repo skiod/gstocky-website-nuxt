@@ -121,5 +121,10 @@ import CustomNavbar from "../../components/Navbar.vue";
 export default {
   name: "About",
   components: { CustomFooter, CustomNavbar },
+  head() {
+    return {
+      title: 'FAQ - Gstocky',
+    }
+  }
 };
 </script>

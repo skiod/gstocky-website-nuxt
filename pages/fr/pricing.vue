@@ -121,6 +121,11 @@ import CustomFooter from '../../components/Footer.vue';
 import CustomNavbar from '../../components/Navbar.vue';
 export default {
   name: "Pricing",
-  components : {CustomFooter,CustomNavbar}
+  components : {CustomFooter,CustomNavbar},
+   head() {
+    return {
+      title: 'Tarification - Gstocky'
+    }
+  }
 };
 </script>

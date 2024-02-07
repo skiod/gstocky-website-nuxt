@@ -74,5 +74,10 @@ import CustomNavbar from "../../../components/Navbar.vue";
 export default {
   name: "Article",
   components: { CustomFooter, CustomNavbar },
+   head() {
+    return {
+      title: "Guide d'inscription - Gstocky",
+    };
+  },
 };
 </script>

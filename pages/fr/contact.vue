@@ -60,6 +60,11 @@ import CustomContactUS from '../../components/ContactUs.vue';
 import CustomNavbar from '../../components/Navbar.vue';
 export default {
   name: "Contact",
-  components : {CustomContactUS,CustomFooter,CustomNavbar}
+  components : {CustomContactUS,CustomFooter,CustomNavbar},
+  head() {
+    return {
+      title: 'Contactez-nous - Gstocky'
+    }
+  }
 };
 </script>

@@ -94,5 +94,10 @@ import CustomNavbar from "../../components/Navbar.vue";
 export default {
   name: "Features",
   components: { CustomFooter, CustomNavbar },
+  head() {
+    return {
+      title: 'Fonctionnalités - Gstocky',
+    }
+  }
 };
 </script>

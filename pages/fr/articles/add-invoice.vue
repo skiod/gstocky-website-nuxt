@@ -70,5 +70,10 @@ import CustomNavbar from "../../../components/Navbar.vue";
 export default {
   name: "Article",
   components: { CustomFooter, CustomNavbar },
+   head() {
+    return {
+      title: 'Ajouter des Factures - Gstocky',
+    };
+  },
 };
 </script>

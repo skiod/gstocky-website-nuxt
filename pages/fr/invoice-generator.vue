@@ -4,7 +4,6 @@
 
     <invoice></invoice>
 
-    <!-- <custom-footer></custom-footer> -->
   </div>
 </template>
 
@@ -14,7 +13,12 @@ import CustomNavbar from '../../components/Navbar.vue';
 import Invoice from '../../components/Invoice.vue';
 export default {
   name: "InvoiceGenerator",
-  components : {Invoice,CustomFooter,CustomNavbar}
+  components : {Invoice,CustomFooter,CustomNavbar},
+  head() {
+    return {
+      title: 'Générateur de Factures - Gstocky',
+    }
+  }
 };
 </script>
 
