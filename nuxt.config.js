@@ -33,21 +33,21 @@ export default {
           })(window, document, "clarity", "script", "gy942a6ahl");
         `,
       },
-      {
-        hid: 'brevo-conversations-script',
-        innerHTML: `
-          (function(d, w, c) {
-            w.BrevoConversationsID = '649c5fffc019833d5a561757';
-            w[c] = w[c] || function() {
-              (w[c].q = w[c].q || []).push(arguments);
-            };
-            var s = d.createElement('script');
-            s.async = true;
-            s.src = 'https://conversations-widget.brevo.com/brevo-conversations.js';
-            if (d.head) d.head.appendChild(s);
-          })(document, window, 'BrevoConversations');
-        `,
-      },
+      // {
+      //   hid: 'brevo-conversations-script',
+      //   innerHTML: `
+      //     (function(d, w, c) {
+      //       w.BrevoConversationsID = '649c5fffc019833d5a561757';
+      //       w[c] = w[c] || function() {
+      //         (w[c].q = w[c].q || []).push(arguments);
+      //       };
+      //       var s = d.createElement('script');
+      //       s.async = true;
+      //       s.src = 'https://conversations-widget.brevo.com/brevo-conversations.js';
+      //       if (d.head) d.head.appendChild(s);
+      //     })(document, window, 'BrevoConversations');
+      //   `,
+      // },
       {
         src :'https://www.google.com/recaptcha/api.js?render=6LetDZEmAAAAAEr9EdTVoDeg6-saEQYhXVSlrQhO'
       },
