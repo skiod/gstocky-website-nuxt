@@ -54,6 +54,7 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la gestion des paiements, vous permettant de suivre et de gérer vos transactions financières en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus de gestion financière et garantir des paiements précis. Simplifiez la gestion de vos paiements avec GStocky dès aujourd'hui !
                     </p>
+                    <a class="mt-4" href="/fr/articles/add-return">Ajouter les Retours</a>
                 </div>
             </div>
         </div>

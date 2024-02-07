@@ -78,9 +78,9 @@
 </template>
 
 <script>
-import ContactUs from '../../components/ContactUs.vue';
-import CustomFooter from '../../components/Footer.vue';
-import CustomNavbar from '../../components/Navbar.vue';
+import ContactUs from '../components/ContactUs.vue';
+import CustomFooter from '../components/Footer.vue';
+import CustomNavbar from '../components/Navbar.vue';
 export default {
   name: "Index",
   components : {ContactUs,CustomFooter,CustomNavbar}

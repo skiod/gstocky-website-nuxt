@@ -60,6 +60,8 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky rend la facturation simple et efficace. Utilisez ces fonctionnalités pour optimiser votre processus de création de devis et fournir des documents professionnels à vos clients. Simplifiez la gestion de vos transactions avec GStocky dès aujourd'hui !
                     </p>
+
+                    <a class="mt-4" href="/fr/articles/add-order">Ajouter les Commandes</a>
                 </div>
             </div>
         </div>

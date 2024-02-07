@@ -54,6 +54,7 @@
                     <p class="mb-4 mb-0 text-dark-1 aos-init aos-animate" data-aos-delay="1000">
                         GStocky simplifie la gestion des achats, vous permettant de suivre et de gérer vos approvisionnements en toute simplicité. Utilisez ces fonctionnalités pour optimiser votre processus d'approvisionnement et garantir des achats réussis. Simplifiez la gestion de vos achats avec GStocky dès aujourd'hui !
                     </p>
+                    <a class="mt-4" href="/fr/articles/add-reception">Ajouter les Réceptions</a>
                 </div>
             </div>
         </div>
