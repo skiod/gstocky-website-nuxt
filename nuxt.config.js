@@ -71,5 +71,5 @@ export default {
   router: {
     middleware: 'redirect',
   },
-
+  error: '~/pages/404.vue'
 }
