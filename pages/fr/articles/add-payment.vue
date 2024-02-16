@@ -57,7 +57,7 @@
 
                     <div class="row">
                       <div class="col-sm-6">
-                          <a class="mt-4" href="/fr/articles/add-receptions">Ajouter les Réceptions</a>
+                          <a class="mt-4" href="/fr/articles/add-reception">Ajouter les Réceptions</a>
                       </div>
                       <div class="col-sm-6" style="text-align:right">
                         <a class="mt-4" href="/fr/articles/add-return">Ajouter les Retours</a>

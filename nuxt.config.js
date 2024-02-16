@@ -24,6 +24,10 @@ export default {
     ],
     script : [
       {
+        src : 'https://www.googletagmanager.com/gtag/js?id=G-46S38XB7FF',
+        async : true
+      },
+      {
         src :'https://www.google.com/recaptcha/api.js?render=6LetDZEmAAAAAEr9EdTVoDeg6-saEQYhXVSlrQhO'
       },
       {
