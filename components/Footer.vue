@@ -63,7 +63,7 @@
 														</div>
 														<div class="col-lg-2 col-md-3 col-sm-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="500">
 															<h5 class="mb-4">Contact</h5>
-															<a href="tel:+212760363100" class="mb-4 me-2 me-sm-0 d-block text-action-1 fw-bold">+212760363100</a>
+															<a href="tel:+212778446852" class="mb-4 me-2 me-sm-0 d-block text-action-1 fw-bold">+212778446852</a>
 															<a href="mailto:contact@gstocky.com" class="mb-4 me-2 me-sm-0 d-block text-action-1 fw-bold">contact@gstocky.com</a>
 														</div>
 													</div>

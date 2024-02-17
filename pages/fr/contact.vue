@@ -44,7 +44,7 @@
               </div>
               <div class="w-50 border-bottom border-dark-3 mx-auto mb-10" data-aos-delay="250"></div>
               <p class="mb-2" >Or call us via WhatsApp</p>
-              <a href="tel:++212760363100" class="text-dark-1 fw-bold fs-1" >+212 760363100</a>
+              <a href="tel:++212778446852" class="text-dark-1 fw-bold fs-1" >+212 760363100</a>
             </div>
           </div>
         </div>

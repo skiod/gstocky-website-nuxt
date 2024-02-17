@@ -312,7 +312,7 @@ export default {
       inputElement.style.height = editableDiv.offsetHeight + 'px';
       inputElement.style.width = editableDiv.offsetWidth * 0.5 + 'px !important';
       inputElement.value = editableDiv.innerText;
-      inputElement.className = 'transparent-input text-right';
+      inputElement.className = 'cc transparent-input text-right';
 
       editableDiv.replaceWith(inputElement);
 
@@ -557,7 +557,7 @@ export default {
 
   [data-invoicly="true"] {
     border: 1px dashed #ddd;
-    padding: 5px;
+    padding: 5px 15px;
   }
 
   .settings-div {
@@ -652,4 +652,5 @@ export default {
       padding: 10px;
     }
   }
+
 </style>

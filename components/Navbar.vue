@@ -24,7 +24,7 @@
         </div>
         <div class="offcanvas-body">
           <div>
-            <a href="/fr" class=" text-dark-1 py-2 d-inline-block">Accueil</a>
+            <a href="/" class=" text-dark-1 py-2 d-inline-block">Accueil</a>
           </div>
           <div>
             <a href="/fr/features" class=" text-dark-1 py-2 d-inline-block">Fonctionnalités</a>
@@ -39,9 +39,9 @@
             <a href="/fr/contact" class=" text-dark-1 py-2 d-inline-block">Contactez nous</a>
           </div>
           <div></div>
-          <!-- <div>
-            <a href="https://dash.gstocky.com/signup" class=" py-2 d-inline-block">Inscription</a>
-          </div> -->
+          <div>
+            <a href="https://dash.gstocky.com/signup" class="text-dark-1 py-2 d-inline-block">Inscription</a>
+          </div>
           <a href="https://dash.gstocky.com/login" class="btn btn-sm btn-action-1 rounded-2 mt-4">Connexion</a>
         </div>
       </div>
@@ -49,7 +49,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-2">
-              <a href="/fr" class="h2 text-white color-white" style="color:white">Gstocky</a>
+              <a href="/" class="h2 text-white color-white" style="color:white">Gstocky</a>
             </div>
             <div class="text-center d-flex justify-content-center col-6">
               <a href="/fr/features" class=" mx-4" style="color:white">Fonctionnalités</a>

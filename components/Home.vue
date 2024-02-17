@@ -832,7 +832,7 @@ Annually
               ou appelez-nous via WhatsApp
             </p>
             <a
-              href="tel:++212760363100"
+              href="tel:++212778446852"
               class="text-dark-1 fw-bold fs-1"
 
 
