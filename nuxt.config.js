@@ -1,4 +1,8 @@
 export default {
+
+  generate: {
+    subFolders: false
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Gstocky | Votre solution complète de gestion de stock et commerciale',
