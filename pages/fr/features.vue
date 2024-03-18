@@ -97,6 +97,12 @@ export default {
   head() {
     return {
       title: 'Fonctionnalités - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/features'
+        }
+      ]
     }
   }
 };

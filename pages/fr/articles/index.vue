@@ -106,6 +106,12 @@ export default {
   head() {
     return {
       title: 'Articles - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/articles'
+        }
+      ]
     };
   },
 };

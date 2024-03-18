@@ -17,6 +17,12 @@ export default {
   head() {
     return {
       title: 'Générateur de Factures - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/invoice-generator'
+        }
+      ]
     }
   }
 };

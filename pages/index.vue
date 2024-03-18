@@ -83,6 +83,17 @@ import CustomFooter from '../components/Footer.vue';
 import CustomNavbar from '../components/Navbar.vue';
 export default {
   name: "Index",
-  components : {ContactUs,CustomFooter,CustomNavbar}
+  components : {ContactUs,CustomFooter,CustomNavbar},
+  head() {
+    return {
+      title: 'Votre solution complète de gestion de stock et commerciale - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/'
+        }
+      ]
+    }
+  }
 };
 </script>

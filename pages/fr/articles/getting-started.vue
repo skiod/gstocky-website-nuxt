@@ -85,6 +85,12 @@ export default {
    head() {
     return {
       title: "Guide d'inscription - Gstocky",
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/getting-started'
+        }
+      ]
     };
   },
 };

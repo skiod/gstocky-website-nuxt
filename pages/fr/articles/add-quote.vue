@@ -88,6 +88,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Devis - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-quote'
+        }
+      ]
     };
   },
 };

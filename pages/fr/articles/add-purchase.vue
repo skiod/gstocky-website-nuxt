@@ -83,6 +83,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Achats - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-purchase'
+        }
+      ]
     };
   },
 };

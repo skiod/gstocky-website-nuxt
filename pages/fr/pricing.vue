@@ -124,7 +124,13 @@ export default {
   components : {CustomFooter,CustomNavbar},
    head() {
     return {
-      title: 'Tarification - Gstocky'
+      title: 'Tarification - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/pricing'
+        }
+      ]
     }
   }
 };

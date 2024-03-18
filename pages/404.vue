@@ -8,7 +8,18 @@
 
 <script>
 export default {
-  name: 'Error404'
+  name: 'Error404',
+  head() {
+    return {
+      title: 'Page Not Found - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/404'
+        }
+      ]
+    }
+  }
 }
 </script>
 

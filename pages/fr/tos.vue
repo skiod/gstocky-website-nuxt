@@ -78,6 +78,17 @@ import CustomFooter from '../../components/Footer.vue';
 import CustomNavbar from '../../components/Navbar.vue';
 export default {
   name: "About",
-  components : {CustomFooter,CustomNavbar}
+  components : {CustomFooter,CustomNavbar},
+  head() {
+    return {
+      title: "Conditions d'utilisation - Gstocky",
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/tos'
+        }
+      ]
+    }
+  }
 };
 </script>

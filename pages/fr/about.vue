@@ -28,6 +28,12 @@ export default {
   head() {
     return {
       title: 'A propos de nous - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/about'
+        }
+      ]
     };
   },
 };

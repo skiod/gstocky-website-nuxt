@@ -63,7 +63,13 @@ export default {
   components : {CustomContactUS,CustomFooter,CustomNavbar},
   head() {
     return {
-      title: 'Contactez-nous - Gstocky'
+      title: 'Contactez-nous - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/contact'
+        }
+      ]
     }
   }
 };

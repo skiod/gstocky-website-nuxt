@@ -87,6 +87,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Commandes - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-order'
+        }
+      ]
     };
   },
 };

@@ -81,6 +81,12 @@ export default {
   head() {
     return {
       title: 'Ajouter des Avoirs - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-credit-note'
+        }
+      ]
     };
   },
 };

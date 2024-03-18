@@ -84,6 +84,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Livraisons - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-delivery'
+        }
+      ]
     };
   },
 };

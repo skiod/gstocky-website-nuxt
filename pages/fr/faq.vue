@@ -124,6 +124,12 @@ export default {
   head() {
     return {
       title: 'FAQ - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/faq'
+        }
+      ]
     }
   }
 };

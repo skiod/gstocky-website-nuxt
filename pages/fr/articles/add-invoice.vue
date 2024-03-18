@@ -82,6 +82,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Factures - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-invoice'
+        }
+      ]
     };
   },
 };

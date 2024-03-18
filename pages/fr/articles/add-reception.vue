@@ -82,6 +82,12 @@ export default {
    head() {
     return {
       title: 'Ajouter des Réceptions - Gstocky',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://gstocky.com/fr/add-reception'
+        }
+      ]
     };
   },
 };
